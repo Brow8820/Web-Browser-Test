@@ -1,0 +1,6 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Animation/Constraints/Public/TransformConstraint.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Animation/Constraints/Public/ConstraintsActor.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Animation/Constraints/Public/TransformableHandle.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Animation/Constraints/Public/ConstraintChannel.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Animation/Constraints/Public/ConstraintsScripting.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Animation/Constraints/Public/ConstraintsManager.h

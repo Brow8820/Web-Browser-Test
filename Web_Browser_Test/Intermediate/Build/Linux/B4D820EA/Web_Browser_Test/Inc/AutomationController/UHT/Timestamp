@@ -1,0 +1,4 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Developer/AutomationController/Public/IAutomationReport.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Developer/AutomationController/Public/AutomationControllerSettings.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Developer/AutomationController/Private/AutomationControllerManager.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Developer/AutomationController/Private/AutomationDeviceClusterManager.h

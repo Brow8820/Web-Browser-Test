@@ -1,0 +1,8 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/ClothingSystemRuntimeInterface/Public/ClothCollisionPrim.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/ClothingSystemRuntimeInterface/Public/ClothingSimulationFactory.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/ClothingSystemRuntimeInterface/Public/ClothConfigBase.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/ClothingSystemRuntimeInterface/Public/ClothVertBoneData.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/ClothingSystemRuntimeInterface/Public/ClothingSimulationInteractor.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/ClothingSystemRuntimeInterface/Public/ClothingAssetBase.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/ClothingSystemRuntimeInterface/Public/ClothCollisionData.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/ClothingSystemRuntimeInterface/Public/ClothPhysicalMeshDataBase_Legacy.h

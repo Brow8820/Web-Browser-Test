@@ -1,0 +1,10 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/XRAssetFunctionLibrary.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/MotionControllerComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/IMotionController.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/VRNotificationsComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/XRGestureConfig.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/HeadMountedDisplayFunctionLibrary.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/MotionTrackedDeviceFunctionLibrary.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/IIdentifiableXRDevice.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/HeadMountedDisplayTypes.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/HeadMountedDisplay/Public/XRLoadingScreenFunctionLibrary.h

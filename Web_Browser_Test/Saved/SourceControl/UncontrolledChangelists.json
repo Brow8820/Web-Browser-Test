@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/StarterContent/Blueprints/BP_LightStudio.uasset",
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/Web_Browser/BrowserMonitor.uasset",
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/Web_Browser/Material.uasset",
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/Web_Browser/UglyPCMonitor.uasset",
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/Web_Browser/WebBrowser.uasset",
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/5M/F34XA0ZQF37S48ISDH6F2S.uasset",
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MX/R1GV431P5FDO08OFULRA01.uasset",
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"/home/apex/Documents/Unreal Projects/Web_Browser_Test/Content/FirstPerson/Maps/FirstPersonMap.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,4 @@
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Experimental/FullBodyIK/Source/FullBodyIK/Public/FBIKConstraintOption.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Experimental/FullBodyIK/Source/FullBodyIK/Public/FBIKDebugOption.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Experimental/FullBodyIK/Source/FullBodyIK/Public/FBIKShared.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Experimental/FullBodyIK/Source/FullBodyIK/Private/RigUnit_FullbodyIK.h

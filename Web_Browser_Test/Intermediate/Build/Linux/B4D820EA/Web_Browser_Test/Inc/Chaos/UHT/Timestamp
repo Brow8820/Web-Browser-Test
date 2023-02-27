@@ -1,0 +1,8 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Chaos/Public/ChaosSolverConfiguration.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Chaos/Public/PhysicsCoreTypes.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Chaos/Public/SolverEventFilters.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Chaos/Public/Field/FieldSystemTypes.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Chaos/Public/GeometryCollection/RecordedTransformTrack.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Chaos/Public/GeometryCollection/ManagedArrayCollection.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Chaos/Public/GeometryCollection/GeometryCollectionConvexUtility.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Chaos/Public/GeometryCollection/GeometryCollectionSimulationTypes.h

@@ -1,0 +1,8 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TimeManagement/Public/TimeManagementBlueprintLibrary.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TimeManagement/Public/ITimedDataInput.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TimeManagement/Public/FixedFrameRateCustomTimeStep.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TimeManagement/Public/TimeSynchronizationSource.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TimeManagement/Public/GenlockedFixedRateCustomTimeStep.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TimeManagement/Public/GenlockedCustomTimeStep.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TimeManagement/Public/GenlockedTimecodeProvider.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TimeManagement/Public/FrameNumberDisplayFormat.h

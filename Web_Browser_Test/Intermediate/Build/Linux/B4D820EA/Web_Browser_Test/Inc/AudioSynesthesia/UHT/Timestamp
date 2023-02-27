@@ -1,0 +1,8 @@
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Classes/AudioSynesthesia.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Classes/AudioSynesthesiaNRT.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Classes/Loudness.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Classes/Meter.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Classes/ConstantQNRT.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Classes/SynesthesiaSpectrumAnalysis.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Classes/OnsetNRT.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/AudioSynesthesia/Source/AudioSynesthesia/Classes/LoudnessNRT.h

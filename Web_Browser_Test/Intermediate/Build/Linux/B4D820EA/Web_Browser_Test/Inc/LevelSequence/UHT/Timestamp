@@ -1,0 +1,15 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/AnimSequenceLevelSequenceLink.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequenceAnimSequenceLink.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequence.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/SequenceMediaController.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequenceBindingReference.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/ILevelSequenceMetaData.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequenceActor.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequencePlayer.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequenceBurnIn.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequenceLegacyObjectReference.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/DefaultLevelSequenceInstanceData.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequenceObject.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequenceDirector.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Public/LevelSequenceCameraSettings.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/LevelSequence/Private/LevelSequenceProjectSettings.h

@@ -1,0 +1,9 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagsSettings.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTags/Classes/BlueprintGameplayTagLibrary.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagAssetInterface.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagsManager.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTags/Public/GameplayTagNetSerializer.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTags/Public/GameplayTagContainerNetSerializer.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTags/Public/GameplayTagRedirectors.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTags/Private/InternalGameplayTagContainerNetSerializer.h

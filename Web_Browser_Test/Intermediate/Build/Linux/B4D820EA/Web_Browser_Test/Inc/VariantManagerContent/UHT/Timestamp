@@ -1,0 +1,13 @@
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/LevelVariantSetsFunctionDirector.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/VariantSet.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/PropertyValue.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/SwitchActor.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/LevelVariantSets.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/VariantObjectBinding.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/PropertyValueMaterial.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/PropertyValueColor.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/PropertyValueSoftObject.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/FunctionCaller.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/PropertyValueOption.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/LevelVariantSetsActor.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Enterprise/VariantManagerContent/Source/VariantManagerContent/Public/Variant.h

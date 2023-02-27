@@ -1,0 +1,13 @@
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/NiagaraGeometryCacheRendererProperties.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheCodecV1.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheTrackTransformGroupAnimation.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheTrackTransformAnimation.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheMeshData.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheTrackFlipbookAnimation.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheActor.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCache.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheTrackStreamable.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheTrack.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheCodecRaw.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/GeometryCache/Source/GeometryCache/Classes/GeometryCacheCodecBase.h

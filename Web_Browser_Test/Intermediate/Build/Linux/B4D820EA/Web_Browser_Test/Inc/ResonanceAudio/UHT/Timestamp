@@ -1,0 +1,7 @@
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/ResonanceAudio/Source/ResonanceAudio/Public/ResonanceAudioSpatializationSourceSettings.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/ResonanceAudio/Source/ResonanceAudio/Public/ResonanceAudioAmbisonicsSettings.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/ResonanceAudio/Source/ResonanceAudio/Public/ResonanceAudioEnums.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/ResonanceAudio/Source/ResonanceAudio/Public/ResonanceAudioBlueprintFunctionLibrary.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/ResonanceAudio/Source/ResonanceAudio/Private/ResonanceAudioSettings.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/ResonanceAudio/Source/ResonanceAudio/Private/ResonanceAudioReverb.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/Runtime/ResonanceAudio/Source/ResonanceAudio/Private/ResonanceAudioDirectivityVisualizer.h

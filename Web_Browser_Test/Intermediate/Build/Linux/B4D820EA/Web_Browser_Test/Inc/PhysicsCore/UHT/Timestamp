@@ -1,0 +1,9 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public/BodySetupCore.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public/BodyInstanceCore.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public/PhysicsSettingsCore.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public/BodySetupEnums.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public/PhysicsSettingsEnums.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public/PhysicalMaterials/PhysicalMaterialPropertyBase.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public/PhysicalMaterials/PhysicalMaterial.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public/Chaos/ChaosEngineInterface.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/PhysicsCore/Public/Chaos/ChaosPhysicalMaterial.h

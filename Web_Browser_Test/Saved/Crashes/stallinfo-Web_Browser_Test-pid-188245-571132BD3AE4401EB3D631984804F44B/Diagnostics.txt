@@ -1,0 +1,63 @@
+Generating report for minidump
+
+Application version 5.1.1.0
+ ... built from changelist 0
+
+OS version Linux 5.15.94-1-MANJARO (network name: apex-desktop)
+Running 4 x86_64 processors (4 logical cores)
+Exception was "UAssetEditorSubsystem::OpenEditorForAsset"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+libUnrealEditor-Core.so!ThreadStackWalker(int, siginfo_t*, void*) [/opt/ext_prog/UnrealEngine/Engine/Source/./Runtime/Core/Private/Unix/UnixPlatformCrashContext.cpp:1034]
+libc.so.6!UnknownFunction(0x38f4f)
+libUnrealEditor-BlueprintGraph.so!FBlueprintActionFilter::IsFilteredByCachedFilters(FBlueprintActionInfo&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp:2665]
+libUnrealEditor-BlueprintGraph.so!FBlueprintActionFilter::IsFilteredByThis(FBlueprintActionInfo&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp:2569]
+libUnrealEditor-BlueprintGraph.so!FBlueprintActionFilter::IsFiltered(FBlueprintActionInfo&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp:2517]
+libUnrealEditor-Kismet.so!FBlueprintActionMenuBuilderImpl::FMenuSectionDefinition::MakeMenuItems(TWeakPtr<FBlueprintEditor, (ESPMode)1>, FBlueprintActionInfo&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/BlueprintActionMenuBuilder.cpp:425]
+libUnrealEditor-Kismet.so!FBlueprintActionMenuBuilder::RebuildActionList() [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/BlueprintActionMenuBuilder.cpp:555]
+libUnrealEditor-Kismet.so!FBlueprintActionMenuUtils::MakePaletteMenu(FBlueprintActionContext const&, UClass*, FBlueprintActionMenuBuilder&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/BlueprintActionMenuUtils.cpp:475]
+libUnrealEditor-Kismet.so!SBlueprintLibraryPalette::CollectAllActions(FGraphActionListBuilderBase&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/SBlueprintLibraryPalette.cpp:261]
+libUnrealEditor-Kismet.so!TBaseSPMethodDelegateInstance<false, SBlueprintSubPalette, (ESPMode)1, void (FGraphActionListBuilderBase&), FDefaultDelegateUserPolicy>::ExecuteIfSafe(FGraphActionListBuilderBase&) const [/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h:312]
+libUnrealEditor-GraphEditor.so!SGraphActionMenu::RefreshAllActions(bool, bool) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/GraphEditor/Private/SGraphActionMenu.cpp:407]
+libUnrealEditor-GraphEditor.so!SGraphActionMenu::Construct(SGraphActionMenu::FArguments const&, bool) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/GraphEditor/Private/SGraphActionMenu.cpp:392]
+libUnrealEditor-Kismet.so!SBlueprintSubPalette::Construct(SBlueprintSubPalette::FArguments const&, TWeakPtr<FBlueprintEditor, (ESPMode)1>) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/SBlueprintSubPalette.cpp:288]
+libUnrealEditor-Kismet.so!SBlueprintLibraryPalette::Construct(SBlueprintLibraryPalette::FArguments const&, TWeakPtr<FBlueprintEditor, (ESPMode)1>) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/SBlueprintLibraryPalette.cpp:234]
+libUnrealEditor-Kismet.so!TSlateDecl<SBlueprintLibraryPalette, RequiredArgs::T1RequiredArgs<TWeakPtr<FBlueprintEditor, (ESPMode)1>&> >::operator<<=(SBlueprintLibraryPalette::FArguments const&) const [/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Widgets/DeclarativeSyntaxSupport.h:970]
+libUnrealEditor-Kismet.so!SBlueprintPalette::Construct(SBlueprintPalette::FArguments const&, TWeakPtr<FBlueprintEditor, (ESPMode)1>) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/SBlueprintPalette.cpp:2225]
+libUnrealEditor-Kismet.so!TSlateDecl<SBlueprintPalette, RequiredArgs::T1RequiredArgs<TSharedRef<FBlueprintEditor, (ESPMode)1>&&> >::operator<<=(SBlueprintPalette::FArguments const&) const [/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/SlateCore/Public/Widgets/DeclarativeSyntaxSupport.h:970]
+libUnrealEditor-Kismet.so!FBlueprintEditor::CreateDefaultTabContents(TArray<UBlueprint*, TSizedDefaultAllocator<32> > const&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/BlueprintEditor.cpp:2884]
+libUnrealEditor-Kismet.so!FBlueprintEditor::CommonInitialization(TArray<UBlueprint*, TSizedDefaultAllocator<32> > const&, bool) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/BlueprintEditor.cpp:2006]
+libUnrealEditor-Kismet.so!FBlueprintEditor::InitBlueprintEditor(EToolkitMode::Type, TSharedPtr<IToolkitHost, (ESPMode)1> const&, TArray<UBlueprint*, TSizedDefaultAllocator<32> > const&, bool) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/Kismet/Private/BlueprintEditor.cpp:2337]
+libUnrealEditor-UMGEditor.so!FWidgetBlueprintEditor::InitWidgetBlueprintEditor(EToolkitMode::Type, TSharedPtr<IToolkitHost, (ESPMode)1> const&, TArray<UBlueprint*, TSizedDefaultAllocator<32> > const&, bool) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/UMGEditor/Private/WidgetBlueprintEditor.cpp:157]
+libUnrealEditor-UMGEditor.so!FAssetTypeActions_WidgetBlueprint::OpenAssetEditor(TArray<UObject*, TSizedDefaultAllocator<32> > const&, TSharedPtr<IToolkitHost, (ESPMode)1>) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/UMGEditor/Private/AssetTypeActions_WidgetBlueprint.cpp:25]
+libUnrealEditor-UnrealEd.so!UAssetEditorSubsystem::OpenEditorForAsset(UObject*, EToolkitMode::Type, TSharedPtr<IToolkitHost, (ESPMode)1>, bool) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/Subsystems/AssetEditorSubsystem.cpp:402]
+libUnrealEditor-UnrealEd.so!UAssetEditorSubsystem::OpenEditorForAssets_Advanced(TArray<UObject*, TSizedDefaultAllocator<32> > const&, EToolkitMode::Type, TSharedPtr<IToolkitHost, (ESPMode)1>) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/Subsystems/AssetEditorSubsystem.cpp:476]
+libUnrealEditor-UnrealEd.so!UAssetEditorSubsystem::OpenEditorForAssets(TArray<UObject*, TSizedDefaultAllocator<32> > const&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/UnrealEd/Private/Subsystems/AssetEditorSubsystem.cpp:591]
+libUnrealEditor-ContentBrowserAssetDataSource.so!ContentBrowserAssetData::EditOrPreviewAssetFileItems(TArrayView<TSharedRef<FContentBrowserAssetFileItemDataPayload const, (ESPMode)1> const, int>, bool) [/opt/ext_prog/UnrealEngine/Engine/Source/./../Plugins/Editor/ContentBrowser/ContentBrowserAssetDataSource/Source/ContentBrowserAssetDataSource/Private/ContentBrowserAssetDataCore.cpp:288]
+libUnrealEditor-ContentBrowserAssetDataSource.so!ContentBrowserAssetData::EditOrPreviewItems(IAssetTools*, UContentBrowserDataSource const*, TArrayView<FContentBrowserItemData const, int>, bool) [/opt/ext_prog/UnrealEngine/Engine/Source/./../Plugins/Editor/ContentBrowser/ContentBrowserAssetDataSource/Source/ContentBrowserAssetDataSource/Private/ContentBrowserAssetDataCore.cpp:308]
+libUnrealEditor-ContentBrowser.so!SContentBrowser::OnItemsActivated(TArrayView<FContentBrowserItem const, int>, EAssetTypeActivationMethod::Type) [/opt/ext_prog/UnrealEngine/Engine/Source/./Editor/ContentBrowser/Private/SContentBrowser.cpp:3020]
+libUnrealEditor-ContentBrowser.so!TBaseSPMethodDelegateInstance<false, SContentBrowser, (ESPMode)1, void (TArrayView<FContentBrowserItem const, int>, EAssetTypeActivationMethod::Type), FDefaultDelegateUserPolicy>::Execute(TArrayView<FContentBrowserItem const, int>, EAssetTypeActivationMethod::Type) const [/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h:295]
+libUnrealEditor-ContentBrowser.so!TBaseSPMethodDelegateInstance<false, SAssetView, (ESPMode)1, void (TSharedPtr<FAssetViewItem, (ESPMode)1>), FDefaultDelegateUserPolicy>::ExecuteIfSafe(TSharedPtr<FAssetViewItem, (ESPMode)1>) const [/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Core/Public/Delegates/DelegateInstancesImpl.h:312]
+libUnrealEditor-ContentBrowser.so!non-virtual thunk to SListView<TSharedPtr<FAssetViewItem, (ESPMode)1> >::Private_OnItemDoubleClicked(TSharedPtr<FAssetViewItem, (ESPMode)1>) [/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Views/SListView.h:0]
+libUnrealEditor-ContentBrowser.so!STableRow<TSharedPtr<FAssetViewItem, (ESPMode)1> >::OnMouseButtonDoubleClick(FGeometry const&, FPointerEvent const&) [/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Views/STableRow.h:422]
+libUnrealEditor-ContentBrowser.so!non-virtual thunk to STableRow<TSharedPtr<FAssetViewItem, (ESPMode)1> >::OnMouseButtonDoubleClick(FGeometry const&, FPointerEvent const&) [/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Slate/Public/Widgets/Views/STableRow.h:0]
+libUnrealEditor-Slate.so!FSlateApplication::RoutePointerDoubleClickEvent(FWidgetPath const&, FPointerEvent const&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:5526]
+libUnrealEditor-Slate.so!FSlateApplication::ProcessMouseButtonDoubleClickEvent(TSharedPtr<FGenericWindow, (ESPMode)1> const&, FPointerEvent const&) [/opt/ext_prog/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:5509]
+libUnrealEditor-Slate.so!FSlateApplication::OnMouseDoubleClick(TSharedPtr<FGenericWindow, (ESPMode)1> const&, EMouseButtons::Type, UE::Math::TVector2<double>) [/opt/ext_prog/UnrealEngine/Engine/Source/./Runtime/Slate/Private/Framework/Application/SlateApplication.cpp:5474]
+libUnrealEditor-ApplicationCore.so!FLinuxApplication::ProcessDeferredMessage(SDL_Event) [/opt/ext_prog/UnrealEngine/Engine/Source/./Runtime/ApplicationCore/Private/Linux/LinuxApplication.cpp:437]
+libUnrealEditor-ApplicationCore.so!FLinuxPlatformApplicationMisc::PumpMessages(bool) [/opt/ext_prog/UnrealEngine/Engine/Source/./Runtime/ApplicationCore/Private/Linux/LinuxPlatformApplicationMisc.cpp:436]
+UnrealEditor!FEngineLoop::Tick() [/opt/ext_prog/UnrealEngine/Engine/Source/./Runtime/Launch/Private/LaunchEngineLoop.cpp:5287]
+UnrealEditor!GuardedMain(char16_t const*) [/opt/ext_prog/UnrealEngine/Engine/Source/./Runtime/Launch/Private/Launch.cpp:204]
+libUnrealEditor-UnixCommonStartup.so!CommonUnixMain(int, char**, int (*)(char16_t const*), void (*)()) [/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Unix/UnixCommonStartup/Private/UnixCommonStartup.cpp:269]
+libc.so.6!UnknownFunction(0x2378f)
+libc.so.6!__libc_start_main(+0x89)
+UnrealEditor!_start()
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

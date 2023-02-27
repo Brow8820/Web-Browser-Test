@@ -1,0 +1,9 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioMixer/Classes/Generators/AudioGenerator.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioMixer/Classes/SubmixEffects/AudioMixerSubmixEffectEQ.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioMixer/Classes/SubmixEffects/AudioMixerSubmixEffectDynamicsProcessor.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioMixer/Classes/SubmixEffects/AudioMixerSubmixEffectReverb.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioMixer/Public/AudioDeviceNotificationSubsystem.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioMixer/Public/AudioMixerBlueprintLibrary.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioMixer/Public/Quartz/AudioMixerClockHandle.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioMixer/Public/Quartz/QuartzSubsystem.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioMixer/Public/Components/SynthComponent.h

@@ -1,0 +1,12 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/ReplicationSystem/ObjectReplicationBridge.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/ReplicationSystem/ReplicationBridge.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/ReplicationSystem/NetBlob/SequentialPartialNetBlobHandler.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/ReplicationSystem/NetBlob/NetBlobHandler.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/ReplicationSystem/Filtering/NetObjectFilter.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/ReplicationSystem/Prioritization/NetObjectCountLimiter.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/ReplicationSystem/Prioritization/NetObjectPrioritizer.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/ReplicationSystem/Prioritization/SphereWithOwnerBoostNetObjectPrioritizer.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/Serialization/NetSerializer.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/Serialization/PolymorphicNetSerializer.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/Serialization/IrisObjectReferencePackageMap.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/Iris/Stub/Public/Iris/DataStream/DataStream.h

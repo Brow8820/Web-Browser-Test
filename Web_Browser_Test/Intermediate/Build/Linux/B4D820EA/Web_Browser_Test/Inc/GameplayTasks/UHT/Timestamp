@@ -1,0 +1,8 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTasks/Classes/GameplayTasksComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTasks/Classes/GameplayTask.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTasks/Classes/GameplayTaskOwnerInterface.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTasks/Classes/Tasks/GameplayTask_ClaimResource.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTasks/Classes/Tasks/GameplayTask_WaitDelay.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTasks/Classes/Tasks/GameplayTask_SpawnActor.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTasks/Classes/Tasks/GameplayTask_TimeLimitedExecution.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/GameplayTasks/Classes/GameplayTaskResource.h

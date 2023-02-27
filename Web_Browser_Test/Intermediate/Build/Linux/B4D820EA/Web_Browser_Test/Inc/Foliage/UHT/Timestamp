@@ -1,0 +1,16 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/FoliageInstancedStaticMeshComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/ProceduralFoliageVolume.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/ProceduralFoliageSpawner.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/FoliageStatistics.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/FoliageType_InstancedStaticMesh.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/ProceduralFoliageComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/ProceduralFoliageTile.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/InstancedFoliageActor.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/FoliageType_Actor.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/InteractiveFoliageActor.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/ProceduralFoliageInstance.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/FoliageTypeObject.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/ProceduralFoliageBlockingVolume.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/FoliageType.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Public/GrassInstancedStaticMeshComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Foliage/Private/InteractiveFoliageComponent.h

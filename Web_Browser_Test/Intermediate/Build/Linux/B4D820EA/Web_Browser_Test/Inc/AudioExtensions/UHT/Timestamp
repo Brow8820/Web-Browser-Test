@@ -1,0 +1,10 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Public/ISoundfieldEndpoint.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Public/IAudioCodec.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Public/IAudioExtensionPlugin.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Public/ISoundfieldFormat.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Public/IAudioModulation.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Public/IAudioEndpoint.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Public/AudioParameterControllerInterface.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Public/IWaveformTransformation.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Public/AudioParameter.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AudioExtensions/Private/PcmCodec.h

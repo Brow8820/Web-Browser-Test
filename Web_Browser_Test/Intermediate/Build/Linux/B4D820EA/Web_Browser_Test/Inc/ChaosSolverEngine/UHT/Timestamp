@@ -1,0 +1,7 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/ChaosSolverEngine/Public/Chaos/ChaosSolver.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/ChaosSolverEngine/Public/Chaos/ChaosEventListenerComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/ChaosSolverEngine/Public/Chaos/ChaosDebugDrawComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/ChaosSolverEngine/Public/Chaos/ChaosNotifyHandlerInterface.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/ChaosSolverEngine/Public/Chaos/ChaosSolverActor.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/ChaosSolverEngine/Public/Chaos/ChaosGameplayEventDispatcher.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Experimental/ChaosSolverEngine/Public/Chaos/ChaosSolverSettings.h

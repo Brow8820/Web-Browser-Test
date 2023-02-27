@@ -1,0 +1,8 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Net/Core/Classes/Net/Core/Analytics/NetAnalyticsAggregatorConfig.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Net/Core/Classes/Net/Serialization/FastArraySerializer.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Net/Core/Public/Net/Core/PushModel/PushModel.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Net/Core/Public/Net/Core/Connection/NetEnums.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Net/Core/Public/Net/Core/Connection/EscalationStates.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Net/Core/Public/Net/Core/Connection/StateStruct.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Net/Core/Public/Net/Core/Connection/NetCloseResult.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/Net/Core/Public/Net/Core/Connection/NetConnectionFaultRecoveryBase.h

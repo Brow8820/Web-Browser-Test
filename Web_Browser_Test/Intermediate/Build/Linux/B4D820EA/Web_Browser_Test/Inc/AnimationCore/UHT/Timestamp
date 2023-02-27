@@ -1,0 +1,9 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AnimationCore/Public/NodeChain.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AnimationCore/Public/CommonAnimTypes.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AnimationCore/Public/Constraint.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AnimationCore/Public/CCDIK.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AnimationCore/Public/NodeHierarchy.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AnimationCore/Public/TransformNoScale.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AnimationCore/Public/EulerTransform.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AnimationCore/Public/AnimationDataSource.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/AnimationCore/Public/FABRIK.h

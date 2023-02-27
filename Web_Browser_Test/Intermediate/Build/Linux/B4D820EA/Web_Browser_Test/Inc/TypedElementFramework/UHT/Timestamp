@@ -1,0 +1,6 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TypedElementFramework/Public/Elements/Framework/TypedElementListProxy.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TypedElementFramework/Public/Elements/Framework/TypedElementHandle.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TypedElementFramework/Public/Elements/Framework/TypedElementRegistry.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TypedElementFramework/Public/Elements/Framework/TypedElementCounter.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TypedElementFramework/Private/TypedElementFrameworkTests.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/TypedElementFramework/Private/Elements/Framework/TypedElementListLibrary.h

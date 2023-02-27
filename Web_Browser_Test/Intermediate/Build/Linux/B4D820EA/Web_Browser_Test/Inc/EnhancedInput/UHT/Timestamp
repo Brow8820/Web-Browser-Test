@@ -1,0 +1,17 @@
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputTriggers.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputPlatformSettings.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputMappingQuery.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputComponent.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputSubsystems.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedPlayerInput.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputAction.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputActionDelegateBinding.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputSubsystemInterface.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputLibrary.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputDeveloperSettings.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputDebugKeyDelegateBinding.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputMappingContext.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputActionValue.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedActionKeyMapping.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/PlayerMappableInputConfig.h
+/opt/ext_prog/UnrealEngine/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputModifiers.h

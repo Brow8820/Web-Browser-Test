@@ -1,0 +1,12 @@
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/MovieSceneCaptureProtocolBase.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/MovieSceneCaptureSettings.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/LevelCapture.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/IMovieSceneCapture.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/MovieSceneCapture.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/MovieSceneCaptureEnvironment.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/Protocols/AudioCaptureProtocol.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/Protocols/ImageSequenceProtocol.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/Protocols/VideoCaptureProtocol.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/Protocols/UserDefinedCaptureProtocol.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/Protocols/FrameGrabberProtocol.h
+/opt/ext_prog/UnrealEngine/Engine/Source/Runtime/MovieSceneCapture/Public/Protocols/CompositionGraphCaptureProtocol.h
